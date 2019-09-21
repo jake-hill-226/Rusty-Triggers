@@ -12,8 +12,11 @@ public class InitStage : MonoBehaviour {
         try
         {
             Object playerResource = Resources.Load("Player\\Player");
-            GameObject playerObject = Instantiate(playerResource, new Vector3(0.0f, 0.0f, 0.0f)
-                                        , new Quaternion()) as GameObject;
+            GameObject playerObject = Instantiate(
+                                            playerResource, 
+                                            new Vector3(0.0f, 0.0f, 0.0f),
+                                            new Quaternion()
+                                        ) as GameObject;
             player = playerObject.GetComponent<Player>().InitFromFile(Player.CharacterDataRoot + "/Test-Character.json");
 
             Debug.Log("Character Name: " + player.playerData.Name);

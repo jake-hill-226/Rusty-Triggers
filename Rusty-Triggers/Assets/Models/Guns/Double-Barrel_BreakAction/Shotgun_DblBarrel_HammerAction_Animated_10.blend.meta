@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: c64398362da66c848a8452447c89eefe
-timeCreated: 1566183212
+timeCreated: 1569090254
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -151,7 +151,1477 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_L_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_R_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Loading-Lever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Stock_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_1
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_2
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever/Shell-Lip_0
+        weight: 1
+      - path: Armature/Ref-Center
+        weight: 1
+      - path: Armature/Shell_L_0
+        weight: 1
+      - path: Armature/Shell_R_0
+        weight: 1
+      - path: Barrel-Saddle
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Break-Hinge
+        weight: 1
+      - path: Foregrip
+        weight: 1
+      - path: Front-Sight
+        weight: 1
+      - path: Hammer_L
+        weight: 1
+      - path: Hammer_R
+        weight: 1
+      - path: Loading-Leaver
+        weight: 1
+      - path: Lower-Reciever
+        weight: 1
+      - path: Pistol_Grip
+        weight: 1
+      - path: Primmer_holes
+        weight: 1
+      - path: Shell-Lip
+        weight: 1
+      - path: Shell_L
+        weight: 1
+      - path: Shell_R
+        weight: 1
+      - path: Stock
+        weight: 1
+      - path: Stock_Lug
+        weight: 1
+      - path: Stock_MountingArm
+        weight: 1
+      - path: Trigger-Guard
+        weight: 1
+      - path: Trigger_L-Barrel
+        weight: 1
+      - path: Trigger_R-Barrel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Break-Barrel_Idle
+      takeName: Break-Barrel_Idle
+      firstFrame: -1
+      lastFrame: 398
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_L_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_R_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Loading-Lever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Stock_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_1
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_2
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever/Shell-Lip_0
+        weight: 1
+      - path: Armature/Ref-Center
+        weight: 1
+      - path: Armature/Shell_L_0
+        weight: 1
+      - path: Armature/Shell_R_0
+        weight: 1
+      - path: Barrel-Saddle
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Break-Hinge
+        weight: 1
+      - path: Foregrip
+        weight: 1
+      - path: Front-Sight
+        weight: 1
+      - path: Hammer_L
+        weight: 1
+      - path: Hammer_R
+        weight: 1
+      - path: Loading-Leaver
+        weight: 1
+      - path: Lower-Reciever
+        weight: 1
+      - path: Pistol_Grip
+        weight: 1
+      - path: Primmer_holes
+        weight: 1
+      - path: Shell-Lip
+        weight: 1
+      - path: Shell_L
+        weight: 1
+      - path: Shell_R
+        weight: 1
+      - path: Stock
+        weight: 1
+      - path: Stock_Lug
+        weight: 1
+      - path: Stock_MountingArm
+        weight: 1
+      - path: Trigger-Guard
+        weight: 1
+      - path: Trigger_L-Barrel
+        weight: 1
+      - path: Trigger_R-Barrel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Break-Barrel_Quick
+      takeName: Break-Barrel_Quick
+      firstFrame: -1
+      lastFrame: 111
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_L_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_R_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Loading-Lever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Stock_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_1
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_2
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever/Shell-Lip_0
+        weight: 1
+      - path: Armature/Ref-Center
+        weight: 1
+      - path: Armature/Shell_L_0
+        weight: 1
+      - path: Armature/Shell_R_0
+        weight: 1
+      - path: Barrel-Saddle
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Break-Hinge
+        weight: 1
+      - path: Foregrip
+        weight: 1
+      - path: Front-Sight
+        weight: 1
+      - path: Hammer_L
+        weight: 1
+      - path: Hammer_R
+        weight: 1
+      - path: Loading-Leaver
+        weight: 1
+      - path: Lower-Reciever
+        weight: 1
+      - path: Pistol_Grip
+        weight: 1
+      - path: Primmer_holes
+        weight: 1
+      - path: Shell-Lip
+        weight: 1
+      - path: Shell_L
+        weight: 1
+      - path: Shell_R
+        weight: 1
+      - path: Stock
+        weight: 1
+      - path: Stock_Lug
+        weight: 1
+      - path: Stock_MountingArm
+        weight: 1
+      - path: Trigger-Guard
+        weight: 1
+      - path: Trigger_L-Barrel
+        weight: 1
+      - path: Trigger_R-Barrel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Break-Barrel_Run
+      takeName: Break-Barrel_Run
+      firstFrame: -1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_L_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_R_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Loading-Lever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Stock_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_1
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_2
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever/Shell-Lip_0
+        weight: 1
+      - path: Armature/Ref-Center
+        weight: 1
+      - path: Armature/Shell_L_0
+        weight: 1
+      - path: Armature/Shell_R_0
+        weight: 1
+      - path: Barrel-Saddle
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Break-Hinge
+        weight: 1
+      - path: Foregrip
+        weight: 1
+      - path: Front-Sight
+        weight: 1
+      - path: Hammer_L
+        weight: 1
+      - path: Hammer_R
+        weight: 1
+      - path: Loading-Leaver
+        weight: 1
+      - path: Lower-Reciever
+        weight: 1
+      - path: Pistol_Grip
+        weight: 1
+      - path: Primmer_holes
+        weight: 1
+      - path: Shell-Lip
+        weight: 1
+      - path: Shell_L
+        weight: 1
+      - path: Shell_R
+        weight: 1
+      - path: Stock
+        weight: 1
+      - path: Stock_Lug
+        weight: 1
+      - path: Stock_MountingArm
+        weight: 1
+      - path: Trigger-Guard
+        weight: 1
+      - path: Trigger_L-Barrel
+        weight: 1
+      - path: Trigger_R-Barrel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Close-Barrel
+      takeName: Close-Barrel
+      firstFrame: -1
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_L_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_R_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Loading-Lever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Stock_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_1
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_2
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever/Shell-Lip_0
+        weight: 1
+      - path: Armature/Ref-Center
+        weight: 1
+      - path: Armature/Shell_L_0
+        weight: 1
+      - path: Armature/Shell_R_0
+        weight: 1
+      - path: Barrel-Saddle
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Break-Hinge
+        weight: 1
+      - path: Foregrip
+        weight: 1
+      - path: Front-Sight
+        weight: 1
+      - path: Hammer_L
+        weight: 1
+      - path: Hammer_R
+        weight: 1
+      - path: Loading-Leaver
+        weight: 1
+      - path: Lower-Reciever
+        weight: 1
+      - path: Pistol_Grip
+        weight: 1
+      - path: Primmer_holes
+        weight: 1
+      - path: Shell-Lip
+        weight: 1
+      - path: Shell_L
+        weight: 1
+      - path: Shell_R
+        weight: 1
+      - path: Stock
+        weight: 1
+      - path: Stock_Lug
+        weight: 1
+      - path: Stock_MountingArm
+        weight: 1
+      - path: Trigger-Guard
+        weight: 1
+      - path: Trigger_L-Barrel
+        weight: 1
+      - path: Trigger_R-Barrel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cock-Hammer_L
+      takeName: Cock-Hammer_L
+      firstFrame: -1
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_L_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_R_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Loading-Lever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Stock_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_1
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_2
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever/Shell-Lip_0
+        weight: 1
+      - path: Armature/Ref-Center
+        weight: 1
+      - path: Armature/Shell_L_0
+        weight: 1
+      - path: Armature/Shell_R_0
+        weight: 1
+      - path: Barrel-Saddle
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Break-Hinge
+        weight: 1
+      - path: Foregrip
+        weight: 1
+      - path: Front-Sight
+        weight: 1
+      - path: Hammer_L
+        weight: 1
+      - path: Hammer_R
+        weight: 1
+      - path: Loading-Leaver
+        weight: 1
+      - path: Lower-Reciever
+        weight: 1
+      - path: Pistol_Grip
+        weight: 1
+      - path: Primmer_holes
+        weight: 1
+      - path: Shell-Lip
+        weight: 1
+      - path: Shell_L
+        weight: 1
+      - path: Shell_R
+        weight: 1
+      - path: Stock
+        weight: 1
+      - path: Stock_Lug
+        weight: 1
+      - path: Stock_MountingArm
+        weight: 1
+      - path: Trigger-Guard
+        weight: 1
+      - path: Trigger_L-Barrel
+        weight: 1
+      - path: Trigger_R-Barrel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cock-Hammer_R
+      takeName: Cock-Hammer_R
+      firstFrame: -1
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_L_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_R_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Loading-Lever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Stock_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_1
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_2
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever/Shell-Lip_0
+        weight: 1
+      - path: Armature/Ref-Center
+        weight: 1
+      - path: Armature/Shell_L_0
+        weight: 1
+      - path: Armature/Shell_R_0
+        weight: 1
+      - path: Barrel-Saddle
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Break-Hinge
+        weight: 1
+      - path: Foregrip
+        weight: 1
+      - path: Front-Sight
+        weight: 1
+      - path: Hammer_L
+        weight: 1
+      - path: Hammer_R
+        weight: 1
+      - path: Loading-Leaver
+        weight: 1
+      - path: Lower-Reciever
+        weight: 1
+      - path: Pistol_Grip
+        weight: 1
+      - path: Primmer_holes
+        weight: 1
+      - path: Shell-Lip
+        weight: 1
+      - path: Shell_L
+        weight: 1
+      - path: Shell_R
+        weight: 1
+      - path: Stock
+        weight: 1
+      - path: Stock_Lug
+        weight: 1
+      - path: Stock_MountingArm
+        weight: 1
+      - path: Trigger-Guard
+        weight: 1
+      - path: Trigger_L-Barrel
+        weight: 1
+      - path: Trigger_R-Barrel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Decock-Hammer_L
+      takeName: Decock-Hammer_L
+      firstFrame: -1
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_L_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_R_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Loading-Lever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Stock_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_1
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_2
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever/Shell-Lip_0
+        weight: 1
+      - path: Armature/Ref-Center
+        weight: 1
+      - path: Armature/Shell_L_0
+        weight: 1
+      - path: Armature/Shell_R_0
+        weight: 1
+      - path: Barrel-Saddle
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Break-Hinge
+        weight: 1
+      - path: Foregrip
+        weight: 1
+      - path: Front-Sight
+        weight: 1
+      - path: Hammer_L
+        weight: 1
+      - path: Hammer_R
+        weight: 1
+      - path: Loading-Leaver
+        weight: 1
+      - path: Lower-Reciever
+        weight: 1
+      - path: Pistol_Grip
+        weight: 1
+      - path: Primmer_holes
+        weight: 1
+      - path: Shell-Lip
+        weight: 1
+      - path: Shell_L
+        weight: 1
+      - path: Shell_R
+        weight: 1
+      - path: Stock
+        weight: 1
+      - path: Stock_Lug
+        weight: 1
+      - path: Stock_MountingArm
+        weight: 1
+      - path: Trigger-Guard
+        weight: 1
+      - path: Trigger_L-Barrel
+        weight: 1
+      - path: Trigger_R-Barrel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Decock-Hammer_R
+      takeName: Decock-Hammer_R
+      firstFrame: -1
+      lastFrame: 57
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_L_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_R_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Loading-Lever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Stock_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_1
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_2
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever/Shell-Lip_0
+        weight: 1
+      - path: Armature/Ref-Center
+        weight: 1
+      - path: Armature/Shell_L_0
+        weight: 1
+      - path: Armature/Shell_R_0
+        weight: 1
+      - path: Barrel-Saddle
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Break-Hinge
+        weight: 1
+      - path: Foregrip
+        weight: 1
+      - path: Front-Sight
+        weight: 1
+      - path: Hammer_L
+        weight: 1
+      - path: Hammer_R
+        weight: 1
+      - path: Loading-Leaver
+        weight: 1
+      - path: Lower-Reciever
+        weight: 1
+      - path: Pistol_Grip
+        weight: 1
+      - path: Primmer_holes
+        weight: 1
+      - path: Shell-Lip
+        weight: 1
+      - path: Shell_L
+        weight: 1
+      - path: Shell_R
+        weight: 1
+      - path: Stock
+        weight: 1
+      - path: Stock_Lug
+        weight: 1
+      - path: Stock_MountingArm
+        weight: 1
+      - path: Trigger-Guard
+        weight: 1
+      - path: Trigger_L-Barrel
+        weight: 1
+      - path: Trigger_R-Barrel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: -1
+      lastFrame: 499
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_L_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_R_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Loading-Lever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Stock_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_1
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_2
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever/Shell-Lip_0
+        weight: 1
+      - path: Armature/Ref-Center
+        weight: 1
+      - path: Armature/Shell_L_0
+        weight: 1
+      - path: Armature/Shell_R_0
+        weight: 1
+      - path: Barrel-Saddle
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Break-Hinge
+        weight: 1
+      - path: Foregrip
+        weight: 1
+      - path: Front-Sight
+        weight: 1
+      - path: Hammer_L
+        weight: 1
+      - path: Hammer_R
+        weight: 1
+      - path: Loading-Leaver
+        weight: 1
+      - path: Lower-Reciever
+        weight: 1
+      - path: Pistol_Grip
+        weight: 1
+      - path: Primmer_holes
+        weight: 1
+      - path: Shell-Lip
+        weight: 1
+      - path: Shell_L
+        weight: 1
+      - path: Shell_R
+        weight: 1
+      - path: Stock
+        weight: 1
+      - path: Stock_Lug
+        weight: 1
+      - path: Stock_MountingArm
+        weight: 1
+      - path: Trigger-Guard
+        weight: 1
+      - path: Trigger_L-Barrel
+        weight: 1
+      - path: Trigger_R-Barrel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Load_Shell_Left
+      takeName: Load_Shell_Left
+      firstFrame: -1
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_L_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_R_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Loading-Lever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Stock_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_1
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_2
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever/Shell-Lip_0
+        weight: 1
+      - path: Armature/Ref-Center
+        weight: 1
+      - path: Armature/Shell_L_0
+        weight: 1
+      - path: Armature/Shell_R_0
+        weight: 1
+      - path: Barrel-Saddle
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Break-Hinge
+        weight: 1
+      - path: Foregrip
+        weight: 1
+      - path: Front-Sight
+        weight: 1
+      - path: Hammer_L
+        weight: 1
+      - path: Hammer_R
+        weight: 1
+      - path: Loading-Leaver
+        weight: 1
+      - path: Lower-Reciever
+        weight: 1
+      - path: Pistol_Grip
+        weight: 1
+      - path: Primmer_holes
+        weight: 1
+      - path: Shell-Lip
+        weight: 1
+      - path: Shell_L
+        weight: 1
+      - path: Shell_R
+        weight: 1
+      - path: Stock
+        weight: 1
+      - path: Stock_Lug
+        weight: 1
+      - path: Stock_MountingArm
+        weight: 1
+      - path: Trigger-Guard
+        weight: 1
+      - path: Trigger_L-Barrel
+        weight: 1
+      - path: Trigger_R-Barrel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Load_Shell_Right
+      takeName: Load_Shell_Right
+      firstFrame: -1
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_L_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_R_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Loading-Lever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Stock_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_1
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_2
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever/Shell-Lip_0
+        weight: 1
+      - path: Armature/Ref-Center
+        weight: 1
+      - path: Armature/Shell_L_0
+        weight: 1
+      - path: Armature/Shell_R_0
+        weight: 1
+      - path: Barrel-Saddle
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Break-Hinge
+        weight: 1
+      - path: Foregrip
+        weight: 1
+      - path: Front-Sight
+        weight: 1
+      - path: Hammer_L
+        weight: 1
+      - path: Hammer_R
+        weight: 1
+      - path: Loading-Leaver
+        weight: 1
+      - path: Lower-Reciever
+        weight: 1
+      - path: Pistol_Grip
+        weight: 1
+      - path: Primmer_holes
+        weight: 1
+      - path: Shell-Lip
+        weight: 1
+      - path: Shell_L
+        weight: 1
+      - path: Shell_R
+        weight: 1
+      - path: Stock
+        weight: 1
+      - path: Stock_Lug
+        weight: 1
+      - path: Stock_MountingArm
+        weight: 1
+      - path: Trigger-Guard
+        weight: 1
+      - path: Trigger_L-Barrel
+        weight: 1
+      - path: Trigger_R-Barrel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Running
+      takeName: Running
+      firstFrame: -1
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_L_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_R_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Loading-Lever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Stock_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_1
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_2
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever/Shell-Lip_0
+        weight: 1
+      - path: Armature/Ref-Center
+        weight: 1
+      - path: Armature/Shell_L_0
+        weight: 1
+      - path: Armature/Shell_R_0
+        weight: 1
+      - path: Barrel-Saddle
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Break-Hinge
+        weight: 1
+      - path: Foregrip
+        weight: 1
+      - path: Front-Sight
+        weight: 1
+      - path: Hammer_L
+        weight: 1
+      - path: Hammer_R
+        weight: 1
+      - path: Loading-Leaver
+        weight: 1
+      - path: Lower-Reciever
+        weight: 1
+      - path: Pistol_Grip
+        weight: 1
+      - path: Primmer_holes
+        weight: 1
+      - path: Shell-Lip
+        weight: 1
+      - path: Shell_L
+        weight: 1
+      - path: Shell_R
+        weight: 1
+      - path: Stock
+        weight: 1
+      - path: Stock_Lug
+        weight: 1
+      - path: Stock_MountingArm
+        weight: 1
+      - path: Trigger-Guard
+        weight: 1
+      - path: Trigger_L-Barrel
+        weight: 1
+      - path: Trigger_R-Barrel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shoot_L
+      takeName: Shoot_L
+      firstFrame: -1
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_L_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_R_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Loading-Lever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Stock_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_1
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_2
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever/Shell-Lip_0
+        weight: 1
+      - path: Armature/Ref-Center
+        weight: 1
+      - path: Armature/Shell_L_0
+        weight: 1
+      - path: Armature/Shell_R_0
+        weight: 1
+      - path: Barrel-Saddle
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Break-Hinge
+        weight: 1
+      - path: Foregrip
+        weight: 1
+      - path: Front-Sight
+        weight: 1
+      - path: Hammer_L
+        weight: 1
+      - path: Hammer_R
+        weight: 1
+      - path: Loading-Leaver
+        weight: 1
+      - path: Lower-Reciever
+        weight: 1
+      - path: Pistol_Grip
+        weight: 1
+      - path: Primmer_holes
+        weight: 1
+      - path: Shell-Lip
+        weight: 1
+      - path: Shell_L
+        weight: 1
+      - path: Shell_R
+        weight: 1
+      - path: Stock
+        weight: 1
+      - path: Stock_Lug
+        weight: 1
+      - path: Stock_MountingArm
+        weight: 1
+      - path: Trigger-Guard
+        weight: 1
+      - path: Trigger_L-Barrel
+        weight: 1
+      - path: Trigger_R-Barrel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shoot_R
+      takeName: Shoot_R
+      firstFrame: -1
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Base
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_L_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Hammer_R_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Loading-Lever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Stock_0
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_1
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Trigger_2
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever
+        weight: 1
+      - path: Armature/Base/Lower-Reciever_0/Upper-Reciever/Shell-Lip_0
+        weight: 1
+      - path: Armature/Ref-Center
+        weight: 1
+      - path: Armature/Shell_L_0
+        weight: 1
+      - path: Armature/Shell_R_0
+        weight: 1
+      - path: Barrel-Saddle
+        weight: 1
+      - path: Barrels
+        weight: 1
+      - path: Break-Hinge
+        weight: 1
+      - path: Foregrip
+        weight: 1
+      - path: Front-Sight
+        weight: 1
+      - path: Hammer_L
+        weight: 1
+      - path: Hammer_R
+        weight: 1
+      - path: Loading-Leaver
+        weight: 1
+      - path: Lower-Reciever
+        weight: 1
+      - path: Pistol_Grip
+        weight: 1
+      - path: Primmer_holes
+        weight: 1
+      - path: Shell-Lip
+        weight: 1
+      - path: Shell_L
+        weight: 1
+      - path: Shell_R
+        weight: 1
+      - path: Stock
+        weight: 1
+      - path: Stock_Lug
+        weight: 1
+      - path: Stock_MountingArm
+        weight: 1
+      - path: Trigger-Guard
+        weight: 1
+      - path: Trigger_L-Barrel
+        weight: 1
+      - path: Trigger_R-Barrel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []

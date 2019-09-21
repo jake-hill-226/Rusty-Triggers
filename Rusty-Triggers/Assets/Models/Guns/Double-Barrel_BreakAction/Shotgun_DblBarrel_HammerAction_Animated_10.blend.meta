@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: c64398362da66c848a8452447c89eefe
+timeCreated: 1566183212
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Barrel-Saddle
+    100004: Barrels
+    100006: Base
+    100008: Break-Hinge
+    100010: Foregrip
+    100012: Front-Sight
+    100014: Hammer_L
+    100016: Hammer_L_0
+    100018: Hammer_R
+    100020: Hammer_R_0
+    100022: Loading-Leaver
+    100024: Loading-Lever
+    100026: Lower-Reciever
+    100028: Lower-Reciever_0
+    100030: Pistol_Grip
+    100032: Primmer_holes
+    100034: Ref-Center
+    100036: Shell-Lip
+    100038: Shell-Lip_0
+    100040: Shell_L
+    100042: Shell_L_0
+    100044: Shell_R
+    100046: Shell_R_0
+    100048: //RootNode
+    100050: Stock
+    100052: Stock_0
+    100054: Stock_Lug
+    100056: Stock_MountingArm
+    100058: Trigger-Guard
+    100060: Trigger_1
+    100062: Trigger_2
+    100064: Trigger_L-Barrel
+    100066: Trigger_R-Barrel
+    100068: Upper-Reciever
+    400000: Armature
+    400002: Barrel-Saddle
+    400004: Barrels
+    400006: Base
+    400008: Break-Hinge
+    400010: Foregrip
+    400012: Front-Sight
+    400014: Hammer_L
+    400016: Hammer_L_0
+    400018: Hammer_R
+    400020: Hammer_R_0
+    400022: Loading-Leaver
+    400024: Loading-Lever
+    400026: Lower-Reciever
+    400028: Lower-Reciever_0
+    400030: Pistol_Grip
+    400032: Primmer_holes
+    400034: Ref-Center
+    400036: Shell-Lip
+    400038: Shell-Lip_0
+    400040: Shell_L
+    400042: Shell_L_0
+    400044: Shell_R
+    400046: Shell_R_0
+    400048: //RootNode
+    400050: Stock
+    400052: Stock_0
+    400054: Stock_Lug
+    400056: Stock_MountingArm
+    400058: Trigger-Guard
+    400060: Trigger_1
+    400062: Trigger_2
+    400064: Trigger_L-Barrel
+    400066: Trigger_R-Barrel
+    400068: Upper-Reciever
+    4300000: Shell_R
+    4300002: Shell_L
+    4300004: Stock
+    4300006: Stock_Lug
+    4300008: Stock_MountingArm
+    4300010: Hammer_R
+    4300012: Foregrip
+    4300014: Trigger-Guard
+    4300016: Trigger_L-Barrel
+    4300018: Trigger_R-Barrel
+    4300020: Hammer_L
+    4300022: Front-Sight
+    4300024: Pistol_Grip
+    4300026: Lower-Reciever
+    4300028: Barrels
+    4300030: Loading-Leaver
+    4300032: Barrel-Saddle
+    4300034: Shell-Lip
+    4300036: Break-Hinge
+    4300038: Primmer_holes
+    7400000: Default Take
+    7400002: Break-Barrel_Idle
+    7400004: Break-Barrel_Quick
+    7400006: Break-Barrel_Run
+    7400008: Close-Barrel
+    7400010: Cock-Hammer_L
+    7400012: Cock-Hammer_R
+    7400014: Decock-Hammer_L
+    7400016: Decock-Hammer_R
+    7400018: Idle
+    7400020: Load_Shell_Left
+    7400022: Load_Shell_Right
+    7400024: Running
+    7400026: Shoot_L
+    7400028: Shoot_R
+    9500000: //RootNode
+    13700000: Barrel-Saddle
+    13700002: Barrels
+    13700004: Break-Hinge
+    13700006: Foregrip
+    13700008: Front-Sight
+    13700010: Hammer_L
+    13700012: Hammer_R
+    13700014: Loading-Leaver
+    13700016: Lower-Reciever
+    13700018: Pistol_Grip
+    13700020: Primmer_holes
+    13700022: Shell-Lip
+    13700024: Shell_L
+    13700026: Shell_R
+    13700028: Stock
+    13700030: Stock_Lug
+    13700032: Stock_MountingArm
+    13700034: Trigger-Guard
+    13700036: Trigger_L-Barrel
+    13700038: Trigger_R-Barrel
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
